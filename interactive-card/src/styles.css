@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+@import url("https://fonts.google.com/specimen/Space+Grotesk");
+
+* {
+  background-color: hsl(0, 0%, 100%);
+  font-family: 'Space Grotesk]';
+  font-weight: 500;
+  font-size: 18px;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}

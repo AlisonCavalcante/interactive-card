@@ -1,0 +1,6 @@
+.background-img {
+  background-image: url('../../../assets/imgs/bg-main-desktop.png');
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 33%;
+ }
