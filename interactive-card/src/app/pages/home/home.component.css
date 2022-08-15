@@ -1,6 +1,28 @@
+.content {
+  display: flex;
+}
+
+.img-card-front, .img-card-back {
+  background: transparent;
+  margin: 10% 0 0 10%;
+  width: 400px;
+  z-index: 1;
+  position: absolute;
+}
+.img-card-back {
+  margin: 26% 0 0 15%;
+}
+
 .background-img {
   background-image: url('../../../assets/imgs/bg-main-desktop.png');
   background-repeat: no-repeat;
   height: 100vh;
-  width: 33%;
+  width: 39%;
+ }
+
+ .content-form {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  width: 100%;
  }
